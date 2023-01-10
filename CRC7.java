@@ -91,7 +91,7 @@ public class CRC7 {
 	}
 	}
 	
-code by Rakesh Kumar @Ait
+//Code by Rakesh Kumar @Ait
 
 
 
